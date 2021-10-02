@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://rumtikitum.github.io/GoogleBookSearch/",
+  "homepage": "https://rumtikitum.github.io/booksearchprime/",
   "proxy": "http://localhost:3001",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
